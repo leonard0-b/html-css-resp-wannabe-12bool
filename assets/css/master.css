@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#lezioni {
+  background-color: #f2f2cd;
+  height: 300px;
+}
+
+.col-xs-12 {
+  border: 1px solid black;
+  height: 100px;
+}
