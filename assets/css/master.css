@@ -4,15 +4,6 @@
   box-sizing: border-box;
 }
 
-#lezioni {
-  background-color: #f2f2cd;
-}
-
-.col-xs-12 {
-  border: 1px solid black;
-  height: 100px;
-}
-
-#boh {
-  /* margin-left: -2px; */
+[class*="col-"] {
+  padding: 10px;
 }
